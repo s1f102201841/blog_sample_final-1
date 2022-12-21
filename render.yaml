@@ -6,7 +6,7 @@ databases:
 
 services:
   - type: web
-    name: blog-sampletomokiti-web
+    name: blog-sampletomoko-web
     env: python
     plan: free
     branch: production
